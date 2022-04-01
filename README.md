@@ -27,10 +27,10 @@ If you need to change the path to the JavaFX library, do the following steps:
 
 Example:
 
-``
+```
 "vmArgs": "--module-path C:\\javafx-sdk-17.0.2\\lib --add-modules javafx.controls,javafx.fxml",
 
-``
+```
 
 ## Eclipse
 
